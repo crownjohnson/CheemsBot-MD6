@@ -29,7 +29,7 @@ global.linkz = "https://chat.whatsapp.com/HNKnosvMaUg5HBjiGZNVbY" //your theme u
 global.websitex = "https://www.youtube.com/channel/UCA-WaheZgRjhBv3GqUtRJoQ" //ur website to be displayed
 global.botscript = 'https://www.youtube.com/channel/UCA-WaheZgRjhBv3GqUtRJoQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By ceejay T" //ur sticker watermark packname
+global.packname = "Sticker By ceejay Tech" //ur sticker watermark packname
 global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\ceejay tech\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213" //ur sticker watermark author
 global.wm = "ceejay Bot Inc." //ur watermark
 
